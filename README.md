@@ -8,18 +8,20 @@ seo:
   name: Mobile Systems & Networking Capstone
 ---
 
-# Goal of this capstone
+# Welcome to the Mobile Systems & Networking Capstone course page!
+
+This page pertains to the capstone course given at the Paul G. Allen School of Computer Science and Engineering at the University of Washington in the Spring of 2023.
+
+## Goal of this capstone
 
 10-week experience in successfully completing a challenging, well-scoped project
 
-Honing your technical skills to quickly absorb and adapt new technical knowledge, gaining
-experience in complex programming, performing evaluation, and learning how to find a
-path when faced with negative results
+Honing your technical skills to quickly absorb and adapt new technical knowledge, gaining experience in complex programming, performing evaluation, and learning how to find a path when faced with negative results.
 
-Also:
-• Teamwork and technical communication skills
-• advisory role to other teams
-• project management practice
+## But wait, there's more!
+- Teamwork and technical communication skills
+- Advisory role to other teams
+- Project management practice
 
 <!-- ## Getting Started
 
