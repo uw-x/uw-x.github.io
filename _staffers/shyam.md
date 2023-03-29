@@ -5,5 +5,3 @@ email: gshyam@cs.washington.edu
 website: https://homes.cs.washington.edu/~gshyam/
 photo: shyam.jpg
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
