@@ -12,7 +12,7 @@ May 25
 : No class meeting. Come to Shyam’s office during class meeting time if you want to discuss anything!
 
 May 30
-: **Deadline**{: .label .label-red}Report #6 is due at 11:59. Final team report due
+: **Deadline**{: .label .label-red}**Report #6 is due at 11:59 pm**. Final team report due
 
 Jun 1
 : **Presentation**{: .label .label-purple}Final project presentations for 10 minutes to rest of class and 5 minutes Q&A. (Presentation #5)

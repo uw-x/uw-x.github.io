@@ -9,7 +9,7 @@ April 18
 : Mini-lecture on IMU
 
 April 20
-: **Deadline**{: .label .label-red}Work on project and meet with Shyam one-on-one if needed. Report #4 is due at 11:59. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
+: **Deadline**{: .label .label-red}Work on project and meet with Shyam one-on-one if needed. **Report #4 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
 
 April 25
 : **Presentation**{: .label .label-purple}Group present first milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (Presentation #2)
@@ -27,7 +27,7 @@ May 9
 : Mini-lecture on how to write a report
 
 May 11
-: **Deadline**{: .label .label-red}Report #5 is due at 11:59. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
+: **Deadline**{: .label .label-red}**Report #5 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
 
 May 16
 : Individual required meetings between each student and Shyam
