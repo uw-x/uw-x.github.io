@@ -1,29 +1,29 @@
 ---
 layout: home
-title: {{site.title}}
+title: Homepage
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: {{site.title}}
+  name: Mobile Systems & Networking Capstone
 ---
 
-# {{site.title}}
+# Welcome to the Mobile Systems & Networking Capstone course page!
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This page pertains to the capstone course given at the Paul G. Allen School of Computer Science and Engineering at the University of Washington in the Spring of 2023.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+## Goal of this capstone
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+10-week experience in successfully completing a challenging, well-scoped project
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+Honing your technical skills to quickly absorb and adapt new technical knowledge, gaining experience in complex programming, performing evaluation, and learning how to find a path when faced with negative results.
 
-## Getting Started
+## But wait, there's more!
+- Teamwork and technical communication skills
+- Advisory role to other teams
+- Project management practice
+
+<!-- ## Getting Started
 
 Getting started with Just the Class is simple.
 
@@ -36,4 +36,4 @@ Just the Class has been used by instructors at Stanford University ([CS 161](htt
 
 ### Local development environment
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll). -->
