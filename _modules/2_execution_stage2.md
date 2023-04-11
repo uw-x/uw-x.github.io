@@ -3,7 +3,7 @@ title: Execution Stage 2
 ---
 
 May 18
-: **Presentation**{: .label .label-purple}Third update due milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (Presentation #4)
+: **Presentation**{: .label .label-purple}Update second milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (Presentation #4)
 
 May 23
 : Mini-lecture on ML for acoustic mobile systems
