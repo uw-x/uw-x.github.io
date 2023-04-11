@@ -21,7 +21,7 @@ May 2
 : Come to Shyam’s office during class meeting time if you want to discuss anything!
 
 May 4
-: **Presentation**{: .label .label-purple}Second update due milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (Presentation #3)
+: Work on project
 
 May 9
 : Mini-lecture on how to write a report
