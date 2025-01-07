@@ -2,34 +2,34 @@
 title: Execution Stage 1
 ---
 
-April 13
+Janurary 28
 : **Presentation**{: .label .label-purple} Group present their project proposal (no more than 3 slides) for 5 minutes to rest of class and 5 minute discussion (Presentation #1)
 
-April 18
+Janurary 30
 : Mini-lecture on IMU
 
-April 20
+February 4
 : **Deadline**{: .label .label-red}Work on project and meet with Shyam one-on-one if needed. **Report #4 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
 
-April 25
+February 6
 : **Presentation**{: .label .label-purple}Group present first milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (Presentation #2)
 
-April 27
+February 11
 : Mini-lecture on GPS
 
-May 2
+February 13
 : Come to Shyam’s office during class meeting time if you want to discuss anything!
 
-May 4
+February 18
 : Work on project
 
-May 9
+February 20
 : Mini-lecture on how to write a report
 
-May 11
+February 25
 : **Deadline**{: .label .label-red}**Report #5 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
 
-May 16
+February 27
 : Individual required meetings between each student and Shyam
 
 <!-- Oct 7

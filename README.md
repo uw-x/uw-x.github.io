@@ -5,12 +5,12 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Mobile Systems & Networking Capstone
+  name: Networks & Mobile AI Capstone
 ---
 
-# Welcome to the Mobile Systems & Networking Capstone course page!
+# Welcome to the Networks & Mobile AI Capstone course page!
 
-This page pertains to the capstone course given at the Paul G. Allen School of Computer Science and Engineering at the University of Washington in the Spring of 2023.
+This page pertains to the capstone course given at the Paul G. Allen School of Computer Science and Engineering at the University of Washington in the Winter of 2025.
 
 ## Goal of this capstone
 
