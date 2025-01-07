@@ -1,6 +1,6 @@
 ---
-name: Malek Itani
+name: Bandhav Veluri
 role: Teaching Assistant
-email: malek@cs.washington.edu
-photo: malek.jpg
+email: bandhav@cs.washington.edu
+photo: bandhav.png
 ---
