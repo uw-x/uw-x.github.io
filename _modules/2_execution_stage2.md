@@ -3,7 +3,7 @@ title: Execution Stage 2
 ---
 
 Feb 27
-: Update second milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (**Presentation #4**)
+: Update second milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (**Presentation #3**)
 
 Mar 4
 : Mini-lecture
@@ -12,10 +12,10 @@ Mar 6
 : Come to Shyam’s office during class meeting time if you want to discuss anything!
 
 Mar 11
-: **Report #6 is due at 11:59 pm**. Final team report due
+: **Report #4 is due at 11:59 pm**. Final team report due
 
 Mar 13
-:  Final project presentations for 10 minutes to rest of class, with 2 minute elevator pitch video, and 5 minutes Q&A. (**Presentation #5**)
+:  Final project presentations for 10 minutes to rest of class, with 2 minute elevator pitch video, and 5 minutes Q&A. (**Presentation #4**)
 
 <!-- Oct 7
 : [Resizing Arrays](#)

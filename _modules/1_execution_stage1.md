@@ -24,7 +24,7 @@ Feb 18
 : Mini-lecture on how to write a report
 
 Feb 20
-: **Report #5 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
+: **Report #3 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
 
 Feb 25
 : Individual required meetings between each student and Shyam
