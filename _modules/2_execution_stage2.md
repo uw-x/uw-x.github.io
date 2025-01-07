@@ -2,19 +2,19 @@
 title: Execution Stage 2
 ---
 
-March 4
+Mar 4
 : **Presentation**{: .label .label-purple}Update second milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (Presentation #4)
 
-March 6
+Mar 6
 : Mini-lecture on ML for acoustic mobile systems
 
-March 11
+Mar 11
 : No class meeting. Come to Shyam’s office during class meeting time if you want to discuss anything!
 
-March 13
+Mar 13
 : **Deadline**{: .label .label-red}**Report #6 is due at 11:59 pm**. Final team report due
 
-March 18
+Mar 18
 : **Presentation**{: .label .label-purple}Final project presentations for 10 minutes to rest of class and 5 minutes Q&A. (Presentation #5)
 
 <!-- Oct 7
