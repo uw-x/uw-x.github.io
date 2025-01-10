@@ -8,7 +8,8 @@ seo:
   name: Networks & Mobile AI Capstone
 ---
 
-# Networks & Mobile AI Capstone (CSE 481 P - Winter 2025)
+# Networks & Mobile AI Capstone
+## CSE 481 P - Winter 2025
 
 Welcome to the Networks & Mobile AI Capstone! This page pertains to the capstone course given at the Paul G. Allen School of Computer Science and Engineering at the University of Washington in the Winter of 2025. This is a 10-week experience in successfully completing a challenging, well-scoped project. An you get hone your technical skills to quickly absorb and adapt new technical knowledge, gaining experience in complex programming, performing evaluation, and learning how to find a path when faced with negative results.
 
