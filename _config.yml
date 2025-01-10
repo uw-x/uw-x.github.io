@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSE 481 P
+title: CSE 481 P Wi25
 tagline: Networks & Mobile AI Capstone
 description: Course website for the Networks & Mobile AI Capstone (CSE 481 P) at UW CSE in Winter 2025.
 author: Bandhav Veluri
