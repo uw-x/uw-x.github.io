@@ -20,7 +20,6 @@ Welcome to the Networks & Mobile AI Capstone! This page pertains to the capstone
 #### Important links
 
 - Deliverables: [Canvas](https://canvas.uw.edu/courses/1779855)
-
 - Discussions: [Ed Stem](https://edstem.org/us/courses/72199/discussion)
 
 
