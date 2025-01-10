@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mobile Systems & Networking Capstone
-tagline: Mobile Systems & Networking Capstone
-description: Course website for the mobile systems and networking capstone at UW CSE in Spring 2023
-author: Malek Itani
+title: Networks & Mobile AI Capstone
+tagline: Networks & Mobile AI Capstone
+description: Course website for the Networks & Mobile AI Capstone at UW CSE in Winter 2025.
+author: Bandhav Veluri
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://uw-x.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
