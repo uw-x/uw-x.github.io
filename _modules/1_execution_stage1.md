@@ -6,10 +6,10 @@ Jan 28
 : Mini-lecture
 
 Jan 30
-: Work on project and meet with Shyam one-on-one if needed. Report #4 is due at 11:59 pm. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
+: **Deadline**{: .label .label-red} Work on project and meet with Shyam one-on-one if needed. **Report #3 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
 
 Feb 4
-: Group present first milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (**Presentation #2**)
+: **Deadline**{: .label .label-red} Group present first milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (**Presentation #2**)
 
 Feb 6
 : Mini-lecture
@@ -24,7 +24,7 @@ Feb 18
 : Mini-lecture on how to write a report
 
 Feb 20
-: **Report #3 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
+: **Deadline**{: .label .label-red} **Report #4 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
 
 Feb 25
 : Individual required meetings between each student and Shyam
