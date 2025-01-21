@@ -16,5 +16,6 @@ Jan 16
 
 Jan 21
 : **Deadline**{: .label .label-red} Discuss in-class. **Report #2 is due at 11:59 pm**: Project name and week to week plan.
+
 Jan 23
 : **Deadline**{: .label .label-red} Group present their project proposal (no more than 3 slides) for 5 minutes to rest of class and 5 minute discussion. **Presentation #1**. Slide 1: What is the project?, slide 2: week to week plan, and slide 3: risks and mitigation startegies.
