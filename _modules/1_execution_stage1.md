@@ -3,7 +3,7 @@ title: Execution Stage 1
 ---
 
 Jan 28
-: Mini-lecture
+: Today instead of lecture, please execute on the projects. The classroom will be avaialble if you want to use it to meet with your teams. Bandhav and I will be in CSE 315. Please come over if you have any clarifications or want to discuss anything.
 
 Jan 30
 : **Deadline**{: .label .label-red} Work on project and meet with Shyam one-on-one if needed. **Report #3 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
