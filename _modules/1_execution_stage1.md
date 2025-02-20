@@ -27,7 +27,7 @@ Feb 20
 : **Deadline**{: .label .label-red} **Report #4 is due at 11:59 pm**. You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far. These reports will only be seen by course staff.
 
 Feb 25
-: Individual required meetings between each student and Shyam
+: **Deadline**{: .label .label-red} Update second milestone (no more than 5 slides) for 10 minutes to rest of class and 5 minutes discussion. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? (**Presentation #3**)
 
 <!-- Oct 7
 : [Resizing Arrays](#)
