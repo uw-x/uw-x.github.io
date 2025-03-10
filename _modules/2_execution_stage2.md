@@ -11,11 +11,11 @@ Mar 4
 Mar 6
 : Come to Shyam’s office during class meeting time if you want to discuss anything!
 
-Mar 11
-: **Deadline**{: .label .label-red} **Report #5 is due at 11:59 pm**. Final team report due
-
 Mar 13
 : **Deadline**{: .label .label-red}  Final project presentations for 10 minutes to rest of class, with 2 minute elevator pitch video, and 5 minutes Q&A. (**Presentation #4**)
+
+Mar 20
+: **Deadline**{: .label .label-red} **Report #5 is due at 11:59 pm**. Final team report due. Submit any additional evaluations as a write up, summarizing the key additional evaluation in half a page with additional graphs and narrative for the rest of the document.
 
 <!-- Oct 7
 : [Resizing Arrays](#)
